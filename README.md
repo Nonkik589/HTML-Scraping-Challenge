@@ -14,7 +14,11 @@
 - How many months exist on Mars? 
 - How many Martian days' worth of data are there? 
 
+## Data Analysis
 
+- Tells you which month, on average, has the lowest temperature? The highest?
+- Tells which month, on average, has the lowest atmospheric pressure? The highest?
+- The DataFrame was exported into a CSV file.
 
 ## Sources
 
